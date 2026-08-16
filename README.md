@@ -78,8 +78,6 @@
   <img src="https://raw.githubusercontent.com/noneedhere/noneedhere/output/snake-purple.svg" alt="Contribution snake animation" />
 </p>
 
-> 💡 The snake animation above is generated automatically by your GitHub Action workflow, feeding on your contribution graph.
-
 ---
 
 ### 🤝 Let's Connect
