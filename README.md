@@ -40,7 +40,10 @@
 ---
 
 ### 📊 GitHub Stats
-
+<p align="center"> <img width="49%" src="https://github-readme-stats-gray-beta-78.vercel.app/api?username=noneedhere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats overview" />
+  
+<img width="49%" src="https://github-readme-stats-gray-beta-78.vercel.app/api/top-langs/?username=noneedhere&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noneedhere&theme=tokyonight&hide_border=true" />
 </p>
